@@ -1,3 +1,2 @@
-# Awesome Links - part-1
+# Awesome Links - Fullstack NextJS, Prisma, Postgres, GraphQL
 
-This branch has the same starting point as [this article](https://prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
